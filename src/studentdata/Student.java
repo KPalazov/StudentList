@@ -39,7 +39,7 @@ public class Student {
      * @param progName the progName to set
      */
     public void setProgName(String progName) {
-        this.progName = progName;
+        this.progName = progName;      
     }
     
 }
